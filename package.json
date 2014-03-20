@@ -1,0 +1,19 @@
+{
+  "name": "slack-brewbot",
+  "version": "0.0.1",
+  "description": "who's turn is it to make a brew? let slack brewbot decide!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "keywords": [
+    "slack",
+    "slack",
+    "bot"
+  ],
+  "author": "Chris Wheatley",
+  "license": "MIT",
+  "readmeFilename": "readme.md",
+  "gitHead": "64ae34e1e1aad9347562b77f2284a45e58b3f8d8"
+}
