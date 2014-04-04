@@ -1,1 +1,1 @@
-var slackBrewbot = require('./bin/slack-brewbot');
+var brewbot = require('./bin/slack-brewbot');
