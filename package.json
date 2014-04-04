@@ -14,5 +14,11 @@
   "author": "Chris Wheatley",
   "license": "MIT",
   "readmeFilename": "readme.md",
-  "gitHead": "64ae34e1e1aad9347562b77f2284a45e58b3f8d8"
+  "gitHead": "64ae34e1e1aad9347562b77f2284a45e58b3f8d8",
+  "devDependencies": {
+    "tap": "~0.4.8"
+  },
+  "dependencies": {
+    "minimist": "0.0.8"
+  }
 }
