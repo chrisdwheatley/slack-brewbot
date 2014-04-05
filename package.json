@@ -1,20 +1,20 @@
 {
   "name": "slack-brewbot",
   "version": "0.0.1",
-  "description": "Who's turn is it to make a brew? Let BrewBot decide!",
+  "description": "Who's turn is it to make a brew? Let BrewBot decide.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": "",
+  "repository": "git@github.com:swirlycheetah/slack-brebow.git",
   "keywords": [
     "slack",
-    "slack bot"
+    "slack bot",
+    "brewbot",
+    "brew"
   ],
   "author": "Chris Wheatley",
   "license": "MIT",
-  "readmeFilename": "readme.md",
-  "gitHead": "64ae34e1e1aad9347562b77f2284a45e58b3f8d8",
   "devDependencies": {
     "tap": "~0.4.8"
   },

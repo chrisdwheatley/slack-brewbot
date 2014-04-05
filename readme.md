@@ -1,6 +1,6 @@
 # Slack BrewBot
 
-## Who's turn is it to make a brew? Let BrewBot decide!
+## Who's turn is it to make a brew? Let BrewBot decide.
 
 BrewBot integrates quickly and easily with Slack, deciding randomly who'll be making the next round of tea or coffee for your team.
 
@@ -8,7 +8,7 @@ BrewBot integrates quickly and easily with Slack, deciding randomly who'll be ma
 
 ##### Creating the WebHook process
 
-* Choose somewhere to run your BrewBot process, Heroku is a good start.
+* Choose somewhere to run your BrewBot process, Heroku is quick and easy to get setup.
 * Clone the repository `$ git clone {{git url}}`
 * Run the node process with a list of people you'd like to include in BrewBot's decision, e.g. `bin/slack-brewbot Sterling 'Cheryl Tunt' Lana 'Malory'`
 * Your process is now ready to be called from within your Slack instance.
