@@ -11,8 +11,9 @@ BrewBot integrates quickly and easily with Slack, deciding randomly who'll be ma
 * Choose somewhere to run your BrewBot process, Heroku is quick and easy to get setup.
 * Clone the repository `$ git clone {{git url}}`
 * Run the node process with a list of people you'd like to include in BrewBot's decision, e.g. `bin/slack-brewbot Sterling 'Cheryl Tunt' Lana 'Malory'`
+* You can specify a port number with `-p` or `--port` followed by the port you'd like to use, e.g. `bin/slack-brewbot -p 8081 Cyril Pam Krieger` (if no port argument is supplied port 8080 will be used by default).
 * Your process is now ready to be called from within your Slack instance.
-z
+
 #### Within Slack
 
 * Create a new Outgoing WebHook integration.
